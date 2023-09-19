@@ -4,8 +4,9 @@
 <img src="https://media4.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="35"> I'm a firm believer in the power of technology to shape the future and drive positive change. From crafting efficient algorithms to crafting delightful user interfaces, I strive for elegance and innovation in everything I create.<br><br>
 <img src="https://media1.giphy.com/media/WR8njYGqKKdZd9Bbs5/giphy.gif" width="35"> When I'm not immersed in coding, you can find me in the virtual realms of gaming, where I explore fantastical worlds and uncover hidden treasures. The same sense of adventure fuels my drive to learn and grow in the ever-evolving landscape of technology.<br><br>
 <img src="https://media1.giphy.com/media/nWPLGmsjvdQ4g/giphy.gif" width="35"> Join me on this journey as we transform ideas into reality and leave a lasting digital footprint. Let's push the limits, break boundaries, and make magic happen in the world of bits and bytes.<br><br>
+<div style="display: flex;">
 <img src="https://media1.giphy.com/media/ckB9wvcONerp73fvkQ/giphy.gif" width="35"> Feel free to reach out and connect. I'm always excited to collaborate, learn from others, and embark on new coding adventures. Together, we can shape the future one line of code at a time!<br><br>
-
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shemademeapoetry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-sahani-472201237) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PoetOfHerAlgos) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rahul-sahani) 
