@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" width="30"> About Me:
+About Me:
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello, World! I'm Rahul Sahani, an aspiring developer on an adventure to turn lines of code into remarkable creations.<br><br>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZxbDhiYnp6cHNwc3hiMXFvaGtyejY3ZDRneXZrajFmMXF4cDk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="35"> As a passionate computer science student, I dive into the depths of deep learning algorithms and explore the art of web development. Armed with Python, React, and JavaScript, I seek to build immersive experiences that captivate users and push the boundaries of what's possible.<br><br>
 <img src="https://media4.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="35"> I'm a firm believer in the power of technology to shape the future and drive positive change. From crafting efficient algorithms to crafting delightful user interfaces, I strive for elegance and innovation in everything I create.<br><br>
@@ -6,7 +6,9 @@
 <br><br>
 <img src="https://media1.giphy.com/media/nWPLGmsjvdQ4g/giphy.gif" width="35"> Join me on this journey as we transform ideas into reality and leave a lasting digital footprint. Let's push the limits, break boundaries, and make magic happen in the world of bits and bytes.
 <br><br>
-<img src="https://media1.giphy.com/media/ckB9wvcONerp73fvkQ/giphy.gif" width="35"> Feel free to reach out and connect. I'm always excited to collaborate, learn from others, and embark on new coding adventures. Together, we can shape the future one line of code at a time!<br><br>
+<img src="https://media1.giphy.com/media/ckB9wvcONerp73fvkQ/giphy.gif" width="35"> Feel free to reach out and connect. I'm always excited to collaborate, learn from others, and embark on new coding adventures. Together, we can shape the future one line of code at a time!<br><be>
+
+- 📧Email me at: **me.rsahani@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shemademeapoetry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-sahani-472201237) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PoetOfHerAlgos) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rahul-sahani) 
@@ -69,7 +71,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul-Sahani04&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
+<!--
+<h3 align="left"> 🥇 My Digital Badges!</h3>
+  [![An image of @shemademeapoetry's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shemademeapoetry)](https://holopin.io/@shemademeapoetry)
+-->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
