@@ -74,10 +74,13 @@
 # Google Cloud Badges
 
 Welcome to my Google Cloud Badge showcase! Here, you can explore the badges I've earned as part of my journey in learning Google Cloud technologies.
-
 <p align="center" >
-<img src="https://cdn.qwiklabs.com/wGJFUpvBEh2PxBkysbOj55iVeSxoAmYShtRYxIXP2Do%3D" width="20%" /> &nbsp;
-<img src="https://cdn.qwiklabs.com/ho2ltDPVVBKeNjPbsXyaCczI03xiarK962039dLEZk0%3D" width="20%" />
+  <a href="https://www.cloudskillsboost.google/public_profiles/c7af3641-56b9-47cd-82ba-5be8ef83a610" > 
+    <img src="https://cdn.qwiklabs.com/wGJFUpvBEh2PxBkysbOj55iVeSxoAmYShtRYxIXP2Do%3D" width="20%" /> &nbsp;
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/c7af3641-56b9-47cd-82ba-5be8ef83a610" > 
+    <img src="https://cdn.qwiklabs.com/ho2ltDPVVBKeNjPbsXyaCczI03xiarK962039dLEZk0%3D" width="20%" />
+  </a>
 </p>
 
 ## Google Cloud Profile
