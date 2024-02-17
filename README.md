@@ -82,6 +82,10 @@ Welcome to my Google Cloud Badge showcase! Here, you can explore the badges I've
   <a href="https://www.cloudskillsboost.google/public_profiles/c7af3641-56b9-47cd-82ba-5be8ef83a610" > 
     <img src="https://cdn.qwiklabs.com/ho2ltDPVVBKeNjPbsXyaCczI03xiarK962039dLEZk0%3D" width="20%" />
   </a>
+   &nbsp;  &nbsp;
+  <a href="https://www.cloudskillsboost.google/public_profiles/c7af3641-56b9-47cd-82ba-5be8ef83a610" > 
+    <img src="https://cdn.qwiklabs.com/EVcqSRwAXO0jGvNkHYLKpuefc9iJDlbsdy%2B1RMgVc%2Bw%3D" width="20%" />
+  </a>
 </p>
 
 ## Google Cloud Profile
