@@ -95,6 +95,14 @@ Check out my complete Google Cloud profile and explore more about my achievement
 [Google Cloud Profile](https://www.cloudskillsboost.google/public_profiles/c7af3641-56b9-47cd-82ba-5be8ef83a610)
 
 
+
+
+## Devfolio Badges
+<p align="center" >
+    <img src="https://devfolio.co/skill-verified-frontend.b9559f3f..png" width="20%" />
+</p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rahul-Sahani04&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Sahani04&theme=midnight-purple&hide_border=false)<br/>
