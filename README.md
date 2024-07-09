@@ -123,6 +123,8 @@ Check out my complete Google Cloud profile and explore more about my achievement
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/shemademeapoetry
+)
 ---
 [![](https://visitcount.itsvg.in/api?id=Rahul-Sahani04&icon=0&color=6)](https://visitcount.itsvg.in)
 
