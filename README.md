@@ -100,6 +100,7 @@ Check out my complete Google Cloud profile and explore more about my achievement
 ## Devfolio Badges
 <p align="center" >
     <img src="https://devfolio.co/skill-verified-frontend.b9559f3f..png" width="20%" />
+    <img src="https://devfolio.co/skill-verified-backend.0c910c4b..png" width="20%" />
 </p>
 
 
