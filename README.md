@@ -121,8 +121,10 @@ Check out my complete Google Cloud profile and explore more about my achievement
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rahul-Sahani04&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!--
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+-->
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/shemademeapoetry
 )
