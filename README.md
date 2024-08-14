@@ -105,9 +105,13 @@ Check out my complete Google Cloud profile and explore more about my achievement
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahul-Sahani04&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Sahani04&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Sahani04&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<!--
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Sahani04&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="30%" />
+  -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Sahani04&theme=midnight-purple&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Sahani04&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="35%" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul-Sahani04&theme=discord&no-frame=false&no-bg=true&margin-w=4)
