@@ -36,7 +36,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![AntDesign](https://img.shields.io/badge/Ant-Design-1?logo=antdesign&style=for-the-badge&logoColor=white)
+![AntDesign](https://img.shields.io/badge/Ant%20Design-blue?logo=antdesign&style=for-the-badge&logoColor=white)
+![ShadCN](https://img.shields.io/badge/Shad/CN%20UI-%23563D7C?logo=shadcnui&style=for-the-badge&logoColor=white)
 
 ### Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
