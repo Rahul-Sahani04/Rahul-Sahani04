@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="1RRoScxSVZ7nNlTKrFKWd6E3jThX0JggMdIGgF6L0pk" />
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Dedicated+and+motivated+CS+Student;Passionate+Developer;+Skilled+in+Python%2C+React%2C+JavaScript;NodeJS%2C+Python%2C+and+Java+in+Backend;Always+excited+to+learn&center=true&width=500&height=50">
