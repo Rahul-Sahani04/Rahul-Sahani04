@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&multiline=true&width=435&lines=Web+%26+Backend+Developer+%7C+React.js+%7C+Next.js+%7C+Python+%7C+MERN+Stack;Passionate+and+Funny+Developer;Always+excited+to+learn+%26+explore&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=25&pause=1000&center=true&multiline=true&width=800&height=200&lines=Web+%26+Backend+Developer+%7C+React.js+%7C+Next.js+%7C+Python+%7C+MERN+Stack;Debugging%3A+90%25+staring+at+the+screen%2C+10%25+actually+coding;Learning+never+stops%E2%80%94neither+do+my+caffeine+refills+%E2%98%95;Solving+problems+today+that+I+created+yesterday">
   </a>
 </p>
 
