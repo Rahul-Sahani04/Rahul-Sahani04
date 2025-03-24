@@ -1,14 +1,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Dedicated+and+motivated+CS+Student;Passionate+Developer;+Skilled+in+Python%2C+React%2C+JavaScript;NodeJS%2C+Python%2C+and+Java+in+Backend;Always+excited+to+learn&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&multiline=true&width=435&lines=Web+%26+Backend+Developer+%7C+React.js+%7C+Next.js+%7C+Python+%7C+MERN+Stack;Passionate+and+Funny+Developer;Always+excited+to+learn+%26+explore&center=true&width=500&height=50">
   </a>
 </p>
 
 
-
 ## About Me:
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello, World! I'm Rahul Sahani, an aspiring developer on an adventure to turn lines of code into remarkable creations.<br><br>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, World! I'm Rahul Sahani, an aspiring developer on an adventure to turn lines of code into remarkable creations.<br/><br/>
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZxbDhiYnp6cHNwc3hiMXFvaGtyejY3ZDRneXZrajFmMXF4cDk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="35"> As a passionate computer science student, I dive into the depths of deep learning algorithms and explore the art of web development. Armed with Python, React, and JavaScript, I seek to build immersive experiences that captivate users and push the boundaries of what's possible.<br><br>
 <img src="https://media4.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="35"> I'm a firm believer in the power of technology to shape the future and drive positive change. From crafting efficient algorithms to crafting delightful user interfaces, I strive for elegance and innovation in everything I create.<br><br>
 <img src="https://media1.giphy.com/media/WR8njYGqKKdZd9Bbs5/giphy.gif" width="35"> When I'm not immersed in coding, you can find me in the virtual realms of gaming, where I explore fantastical worlds and uncover hidden treasures. The same sense of adventure fuels my drive to learn and grow in the ever-evolving landscape of technology.
