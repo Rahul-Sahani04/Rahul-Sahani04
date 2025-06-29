@@ -1,9 +1,24 @@
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=25&pause=1000&center=true&multiline=true&width=800&height=200&lines=Web+%26+Backend+Developer+%7C+React.js+%7C+Next.js+%7C+Python+%7C+MERN+Stack;Debugging%3A+90%25+staring+at+the+screen%2C+10%25+actually+coding;Learning+never+stops%E2%80%94neither+do+my+caffeine+refills+%E2%98%95;Solving+problems+today+that+I+created+yesterday">
   </a>
 </p>
+
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:me.rsahani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-me.rsahani@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://rsahani.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
 
 
 ## About Me:
@@ -16,8 +31,6 @@
 <img src="https://media1.giphy.com/media/nWPLGmsjvdQ4g/giphy.gif" width="35"> Join me on this journey as we transform ideas into reality and leave a lasting digital footprint. Let's push the limits, break boundaries, and make magic happen in the world of bits and bytes.
 <br><br>
 <img src="https://media1.giphy.com/media/ckB9wvcONerp73fvkQ/giphy.gif" width="35"> Feel free to reach out and connect. I'm always excited to collaborate, learn from others, and embark on new coding adventures. Together, we can shape the future one line of code at a time!<br><be>
-
-📧 Email me at: **me.rsahani@gmail.com**
 
 ## 🌐 Socials:
 
@@ -77,6 +90,15 @@
 
 ### API Development and Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🛡️ TryHackMe Badges
+
+<p align="center">
+  <a href="https://tryhackme.com/p/4169121" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/4169121.png" alt="TryHackMe Badge" width="60%" />
+  </a>
+</p>
+
 
 # Google Cloud Badges
 
