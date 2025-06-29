@@ -91,11 +91,11 @@
 ### API Development and Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🛡️ TryHackMe Badges
+## 🛡️ TryHackMe Profile
 
-<p align="center">
+<p align="left">
   <a href="https://tryhackme.com/p/4169121" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/4169121.png" alt="TryHackMe Badge" width="60%" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SheMadeMeAPoetry.png" alt="SheMadeMeAPoetry.png" />
   </a>
 </p>
 
