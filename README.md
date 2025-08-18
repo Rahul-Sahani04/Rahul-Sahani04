@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-me.rsahani@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   &nbsp;
-  <a href="https://rsahani.tech/" target="_blank">
+  <a href="https://rsahani.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
