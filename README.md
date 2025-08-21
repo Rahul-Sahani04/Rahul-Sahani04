@@ -13,10 +13,16 @@
   <a href="mailto:me.rsahani@gmail.com">
     <img src="https://img.shields.io/badge/Email-me.rsahani@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  &nbsp;
+  &nbsp; &nbsp;
   <a href="https://rsahani.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  &nbsp; &nbsp;
+<a href="https://raw.githubusercontent.com/Rahul-Sahani04/Rahul-Sahani04/main/Rahul_Resume.pdf" download>
+  <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume Badge"/>
+</a>
+
+
 </p>
 
 
