@@ -97,6 +97,9 @@
 ### API Development and Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+<!--
+
 ## 🛡️ TryHackMe Profile
 
 <p align="left">
@@ -104,7 +107,7 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/SheMadeMeAPoetry.png" alt="SheMadeMeAPoetry.png" />
   </a>
 </p>
-
+-->
 
 # Google Cloud Badges
 
@@ -122,8 +125,6 @@ Welcome to my Google Cloud Badge showcase! Here, you can explore the badges I've
     <img src="https://cdn.qwiklabs.com/EVcqSRwAXO0jGvNkHYLKpuefc9iJDlbsdy%2B1RMgVc%2Bw%3D" width="20%" />
   </a>
 </p>
-
-## Google Cloud Profile
 
 Check out my complete Google Cloud profile and explore more about my achievements and certifications.
 
