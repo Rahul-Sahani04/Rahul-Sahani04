@@ -140,6 +140,10 @@ Check out my complete Google Cloud profile and explore more about my achievement
 </p>
   -->
 
+## Holo Pin Badges
+  [![An image of @shemademeapoetry's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shemademeapoetry)](https://holopin.io/@shemademeapoetry)
+
+
 
 # 📊 GitHub Stats:
 <p align="center">
