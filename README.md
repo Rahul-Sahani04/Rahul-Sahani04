@@ -98,7 +98,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-<!--
 
 ## 🛡️ TryHackMe Profile
 
@@ -107,7 +106,7 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/SheMadeMeAPoetry.png" alt="SheMadeMeAPoetry.png" />
   </a>
 </p>
--->
+
 
 # Google Cloud Badges
 
@@ -155,9 +154,9 @@ Check out my complete Google Cloud profile and explore more about my achievement
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Sahani04&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="35%" />
 </p>
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul-Sahani04&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-<!--
 <h3 align="left"> 🥇 My Digital Badges!</h3>
   [![An image of @shemademeapoetry's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shemademeapoetry)](https://holopin.io/@shemademeapoetry)
 -->
