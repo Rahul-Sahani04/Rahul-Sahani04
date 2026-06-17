@@ -1,150 +1,101 @@
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=25&pause=1000&center=true&multiline=true&width=800&height=200&lines=Web+%26+Backend+Developer+%7C+React.js+%7C+Next.js+%7C+Python+%7C+MERN+Stack;Debugging%3A+90%25+staring+at+the+screen%2C+10%25+actually+coding;Learning+never+stops%E2%80%94neither+do+my+caffeine+refills+%E2%98%95;Solving+problems+today+that+I+created+yesterday">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=25&pause=1000&center=true&multiline=true&width=800&height=200&lines=Backend+%26+Systems+Engineer+%7C+Python+%7C+Node.js+%7C+FastAPI;I+build+APIs%2C+data+pipelines+%26+event-driven+systems;AI-powered+apps+and+the+infrastructure+behind+them;Debugging%3A+90%25+staring%2C+10%25+actually+coding">
   </a>
 </p>
-
-
-## 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:me.rsahani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-me.rsahani@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-me.rsahani@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp; &nbsp;
+  &nbsp;
+  <a href="https://linkedin.com/in/rahul1sahani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
   <a href="https://rsahani.space/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp; &nbsp;
-<a href="https://raw.githubusercontent.com/Rahul-Sahani04/Rahul-Sahani04/main/Rahul_Resume.pdf" download>
-  <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume Badge"/>
-</a>
-
-
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/Rahul-Sahani04/Rahul-Sahani04/main/Rahul_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
-
-
 ## About Me:
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, World! I'm Rahul Sahani, an aspiring developer on an adventure to turn lines of code into remarkable creations.<br/><br/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZxbDhiYnp6cHNwc3hiMXFvaGtyejY3ZDRneXZrajFmMXF4cDk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="35"> As a passionate computer science student, I dive into the depths of deep learning algorithms and explore the art of web development. Armed with Python, React, and JavaScript, I seek to build immersive experiences that captivate users and push the boundaries of what's possible.<br><br>
-<img src="https://media4.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="35"> I'm a firm believer in the power of technology to shape the future and drive positive change. From crafting efficient algorithms to crafting delightful user interfaces, I strive for elegance and innovation in everything I create.<br><br>
-<img src="https://media1.giphy.com/media/WR8njYGqKKdZd9Bbs5/giphy.gif" width="35"> When I'm not immersed in coding, you can find me in the virtual realms of gaming, where I explore fantastical worlds and uncover hidden treasures. The same sense of adventure fuels my drive to learn and grow in the ever-evolving landscape of technology.
-<br><br>
-<img src="https://media1.giphy.com/media/nWPLGmsjvdQ4g/giphy.gif" width="35"> Join me on this journey as we transform ideas into reality and leave a lasting digital footprint. Let's push the limits, break boundaries, and make magic happen in the world of bits and bytes.
-<br><br>
-<img src="https://media1.giphy.com/media/ckB9wvcONerp73fvkQ/giphy.gif" width="35"> Feel free to reach out and connect. I'm always excited to collaborate, learn from others, and embark on new coding adventures. Together, we can shape the future one line of code at a time!<br><be>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, World! I'm Rahul Sahani, a backend-focused engineer who likes the hard part of the stack — APIs, data modeling, and the systems that hold them together.<br/><br/>
 
-## 🌐 Socials:
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZxbDhiYnp6cHNwc3hiMXFvaGtyejY3ZDRneXZrajFmMXF4cDk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="35"> I work mainly in Python and Node, building REST APIs, caching layers, and AI-powered pipelines — chatbots, embeddings, recommendation models, the logic behind the product rather than the pixels in front of it.<br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black)](https://rsahani.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shemademeapoetry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul1sahani) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/me_rsahani) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rahul-sahani) 
+<img src="https://media4.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="35"> Right now I'm going deep on Java and Spring Boot, and on event-driven architecture — queues, retries, dead-letter handling — the kind of systems that have to be correct, not just functional.<br><br>
 
-# 💻 Tech Stack
+<img src="https://media1.giphy.com/media/WR8njYGqKKdZd9Bbs5/giphy.gif" width="35"> When I'm not at the keyboard, you'll usually find me gaming or writing — the same curiosity that pulls me into a good system design also pulls me into a good story.<br><br>
 
-### Programming Languages
+<img src="https://media1.giphy.com/media/nWPLGmsjvdQ4g/giphy.gif" width="35"> I'm currently looking for backend, platform, or AI-systems roles — places where the problem is logic, not layout.<br><br>
+
+<img src="https://media1.giphy.com/media/ckB9wvcONerp73fvkQ/giphy.gif" width="35"> Always happy to talk shop — reach out if you want to compare notes on APIs, data pipelines, or AI infra.<br><be>
+
+## 🚀 Featured Work
+
+> A few projects that show how I think. (Live links + READMEs added as each is polished.)
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[RSAHANI](https://github.com/Rahul-Sahani04/gaming-portfolio)** | My Personal Portfolio with lots of thing I added for fun | `Next.js` `Framer Motion` `GSAP` `Tailwind CSS` `Redis` |
+| **[FlexAPI](https://github.com/Rahul-Sahani04/FlexApp)** | Headless CMS with AI-assisted schema generation & multi-tenant data modeling | `Spring Boot` `Next.js` `PostgreSQL` `Redis` |
+| **[bharatfd-backend](https://github.com/Rahul-Sahani04/bharatfd-backend)** | Backend service — REST API, data layer, caching | `Node.js` `TypeScript` |
+| **[Mental-Health-AI-Assistant](https://github.com/Rahul-Sahani04/Mental-Health-AI-Assistant)** | Conversational support chatbot with an LLM-driven response pipeline | `Python` `Streamlit` `LLM APIs` |
+| **[Book Recommender (GNN)](https://github.com/Rahul-Sahani04/book-recommendation-using-gnn)** | Graph-neural-network recommendation model | `Python` `PyTorch` `Jupyter` |
+| **[mac-sweep](https://github.com/Rahul-Sahani04/mac-sweep)** | macOS junk-cleaner CLI with AI-generated reports | `Python` `CLI` |
+
+## 🧰 Tech Stack
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/Shad/CN%20UI-%23563D7C?logo=shadcnui&style=for-the-badge&logoColor=white)
+**Backend**
 
-### Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-### Databases
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Databases & Caching**
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Tools and Services
+**AI / Data**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+**DevOps & Infra**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-### Design and Graphics
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+**Frontend** *(I can, I just prefer the backend)*
 
-### API Development and Testing
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## 📊 GitHub Stats
 
-
-## 🛡️ TryHackMe Profile
-
-<p align="left">
-  <a href="https://tryhackme.com/p/4169121" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/SheMadeMeAPoetry.png" alt="SheMadeMeAPoetry.png" />
-  </a>
-</p>
-
-
-Check out my complete Google Cloud profile and explore more about my achievements and certifications.
-
-[Google Cloud Profile](https://www.cloudskillsboost.google/public_profiles/c7af3641-56b9-47cd-82ba-5be8ef83a610)
-
-
-
-<!--
-
-## Devfolio Badges
-<p align="center" >
-    <img src="https://devfolio.co/skill-verified-frontend.b9559f3f..png" width="20%" />
-    <img src="https://devfolio.co/skill-verified-backend.0c910c4b..png" width="20%" />
-</p>
-  -->
-
-## Holo Pin Badges
-  [![An image of @shemademeapoetry's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shemademeapoetry)](https://holopin.io/@shemademeapoetry)
-
-
-
-# 📊 GitHub Stats:
 <p align="center">
-<!--
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Sahani04&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="30%" />
-  -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Sahani04&theme=midnight-purple&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Sahani04&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="35%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Sahani04&theme=midnight-purple&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Sahani04&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="35%" />
 </p>
-
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rahul-Sahani04&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-<h3 align="left"> 🥇 My Digital Badges!</h3>
-  [![An image of @shemademeapoetry's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shemademeapoetry)](https://holopin.io/@shemademeapoetry)
--->
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rahul-Sahani04&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!--
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
--->
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/shemademeapoetry
-)
----
-[![](https://visitcount.itsvg.in/api?id=Rahul-Sahani04&icon=0&color=6)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=Rahul-Sahani04&color=blueviolet)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
