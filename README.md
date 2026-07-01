@@ -43,10 +43,8 @@
 | Project | What it is | Stack |
 |---|---|---|
 | **[RSAHANI](https://github.com/Rahul-Sahani04/gaming-portfolio)** | My Personal Portfolio with lots of thing I added for fun | `Next.js` `Framer Motion` `GSAP` `Tailwind CSS` `Redis` |
-| **[FlexAPI](https://github.com/Rahul-Sahani04/FlexApp)** | Headless CMS with AI-assisted schema generation & multi-tenant data modeling | `Spring Boot` `Next.js` `PostgreSQL` `Redis` |
-| **[bharatfd-backend](https://github.com/Rahul-Sahani04/bharatfd-backend)** | Backend service — REST API, data layer, caching | `Node.js` `TypeScript` |
-| **[Mental-Health-AI-Assistant](https://github.com/Rahul-Sahani04/Mental-Health-AI-Assistant)** | Conversational support chatbot with an LLM-driven response pipeline | `Python` `Streamlit` `LLM APIs` |
-| **[Book Recommender (GNN)](https://github.com/Rahul-Sahani04/book-recommendation-using-gnn)** | Graph-neural-network recommendation model | `Python` `PyTorch` `Jupyter` |
+| **[Beacon](https://github.com/Rahul-Sahani04/beacon)** | Self-hosted, cookie-free web analytics platform — real-time multi-site dashboard, daily-rotating visitor hash (no cookies, no persistent IDs), nightly cron rollups, Python ETL migrating 4,186+ historical events | `Convex` `Next.js` `Tailwind CSS` `Python` |
+| **[Sage-Almanac](https://github.com/Rahul-Sahani04/Sage-Almanac)** | Shared journal-style calendar app for couples — real-time sync, photo-attached journal entries, writing streak tracking, and secure single-use expiring invite tokens | `Next.js 15` `React 19` `Convex` `Clerk` `Tailwind CSS v4` |
 | **[mac-sweep](https://github.com/Rahul-Sahani04/mac-sweep)** | macOS junk-cleaner CLI with AI-generated reports | `Python` `CLI` |
 
 ## 🧰 Tech Stack
