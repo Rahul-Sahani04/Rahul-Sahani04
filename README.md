@@ -1,6 +1,7 @@
 <p align="center">
+  <img src="https://i.pinimg.com/1200x/36/62/a5/3662a571b47874a22a8ff9e51544a4c4.jpg" width="20%" />
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=25&pause=1000&center=true&multiline=true&width=800&height=200&lines=Backend+%26+Systems+Engineer+%7C+Python+%7C+Node.js+%7C+FastAPI;I+build+APIs%2C+data+pipelines+%26+event-driven+systems;AI-powered+apps+and+the+infrastructure+behind+them;Debugging%3A+90%25+staring%2C+10%25+actually+coding">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=25&pause=1000&center=true&multiline=true&width=800&height=200&lines=Backend+%26+Systems+Engineer+%7C+Python+%7C+Node.js+%7C+FastAPI;I+build+APIs%2C+data+pipelines+%26+event-driven+systems;AI-powered+apps+and+the+infrastructure+behind+them;Debugging%3A+90%25+staring%2C+10%25+actually+coding" width="75%">
   </a>
 </p>
 
