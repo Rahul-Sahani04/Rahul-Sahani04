@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fa54fee5-c47b-47f6-b44c-6ec7c91bee3a" width="20%" />
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=25&pause=1000&center=true&multiline=true&width=600&height=160&color=80CF59FF&lines=Backend+%26+Systems+Engineer+%7C+Python+%7C+Node.js+%7C+FastAPI;I+build+APIs%2C+data+pipelines+%26+event-driven+systems;I+like+to+play+games+and+trying+to+build+them;Debugging%3A+90%25+staring%2C+10%25+actually+coding" width="70%">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=25&pause=1000&center=true&multiline=true&width=600&height=160&color=80CF59FF&lines=Backend+%26+Systems+Engineer+%7C+Python+%7C+Node.js+%7C+FastAPI;I+build+APIs%2C+data+pipelines+%26+event-driven+systems;I+like+to+play+games+and+trying+to+build+them;If+you%27re+wondering+who%27s+the+girl+on+the+left%2C+she%27s+Sage" width="70%">
   </a>
 </p>
 
@@ -46,6 +46,7 @@
 | **[RSAHANI](https://github.com/Rahul-Sahani04/gaming-portfolio)** | My Personal Portfolio with lots of thing I added for fun | `Next.js` `Framer Motion` `GSAP` `Tailwind CSS` `Redis` |
 | **[Beacon](https://github.com/Rahul-Sahani04/beacon)** | Self-hosted, cookie-free web analytics platform — real-time multi-site dashboard, daily-rotating visitor hash (no cookies, no persistent IDs), nightly cron rollups, Python ETL migrating 4,186+ historical events | `Convex` `Next.js` `Tailwind CSS` `Python` |
 | **[Sage-Almanac](https://github.com/Rahul-Sahani04/Sage-Almanac)** | Shared journal-style calendar app for couples — real-time sync, photo-attached journal entries, writing streak tracking, and secure single-use expiring invite tokens | `Next.js 15` `React 19` `Convex` `Clerk` `Tailwind CSS v4` |
+| **[Stellar Conflict](https://github.com/Rahul-Sahani04/Mini-Space-Shooter)** | Retro Like, Space shooter game with object pooling, spatial-partitioned collision detection, and a state-machine game loop (menu/playing/paused/game-over) | `JavaScript` `HTML5 Canvas` `Vite` `Tailwind CSS` |
 | **[mac-sweep](https://github.com/Rahul-Sahani04/mac-sweep)** | macOS junk-cleaner CLI with AI-generated reports | `Python` `CLI` |
 
 ## 🧰 Tech Stack
