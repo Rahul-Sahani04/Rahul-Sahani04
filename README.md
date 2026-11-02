@@ -24,8 +24,8 @@
 </p>
 
 <p align="center">
-  <b>Meet me in your terminal</b><br/>
-  <code>curl -fsSL https://rsahani.space/rahul | bash</code>
+  <i>"Some things are better experienced than read."</i><br/><br/>
+  <code>curl -fsSL rsahani.space/rahul | bash</code>
 </p>
 
 ## About Me:
