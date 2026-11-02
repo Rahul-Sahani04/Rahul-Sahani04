@@ -24,9 +24,7 @@
 </p>
 
 <p align="center">
-  <sub>✦ THERE'S A LITTLE MORE TO ME THAN A README</sub><br/>
-  <img src="https://img.shields.io/badge/MEET_ME_IN_YOUR_TERMINAL-80CF59?style=for-the-badge&logo=gnometerminal&logoColor=111111" alt="Meet me in your terminal"/>
-  <br/>
+  <b>Meet me in your terminal</b><br/>
   <code>curl -fsSL https://rsahani.space/rahul | bash</code>
 </p>
 
