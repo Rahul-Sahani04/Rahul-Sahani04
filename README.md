@@ -23,6 +23,11 @@
   </a>
 </p>
 
+<p align="center">
+  <b>Meet me in your terminal</b><br/>
+  <code>curl -fsSL https://rsahani.space/rahul | bash</code>
+</p>
+
 ## About Me:
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, World! I'm Rahul Sahani, a backend-focused engineer who likes the hard part of the stack — APIs, data modeling, and the systems that hold them together.<br/><br/>
